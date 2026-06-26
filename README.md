@@ -64,11 +64,14 @@ Vercel settings:
 Framework Preset: Vite
 Build Command: npm run build
 Output Directory: dist
+
+
 Screenshots
 
-Add screenshots here after deployment.
+
 
 ![ResumeLens AI Screenshot](./public/screenshots)
+
 Future Improvements
 Add user authentication
 Save analysis history
